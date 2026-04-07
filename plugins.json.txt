@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Eklenti Adı",
+    "description": "Eklenti Açıklaması",
+    "version": 1,
+    "url": "eklenti_dosyasinin_direkt_linki.py",
+    "language": "tr"
+  }
+]
