@@ -1,15 +1,11 @@
 plugins.json
 [
   {
-    "name": "Hexated Repo",
-    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions/main/repo.json",
-    "version": 1
-  },
-  {
-    "name": "English Providers",
-    "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/repo.json",
+    "name": "Turkish & Global",
+    "url": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/builds/plugins.json",
     "version": 1
   }
 ]
+
 
 
